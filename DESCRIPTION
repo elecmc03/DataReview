@@ -1,0 +1,13 @@
+Package: DataReview
+Type: Package
+Title: DataReview
+Version: 0.1.0
+Author: melerele
+Maintainer: melerele <elecmc03@gmail.com>
+Description: Creating a file with the review of the data done by dlookr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: openxlsx,
+         dplyr,
+         dlookr
